@@ -10,7 +10,20 @@ afim de analisar os sentimentos dos eleitores sobre a situação política do pa
 **Metodologia:** Os tweets são coletados da API do Twitter aleatoriamente, tendo como base as permissões de
 acesso da categoria Essential da plataforma.
 
-**Ferramentas:** Bibliotecas Python - Pandas, MatplotLib, Wordcloud, NLTK e Tweepy.
+**Ferramentas:** 
+Bibliotecas Python - Pandas, MatplotLib, Wordcloud, NLTK e Tweepy.
+Editor de Código: upyter Notebook.
 
 **Comandos:**
 start - jupyter-notebook
+
+**Observações:**
+Para que o código de autenticação funcione corretamente, adicione o token de autenticação do seu app do Twitter ao arquivo 'bearer-token.txt'.
+
+**Links úteis:**
+### Manual Jupyter Notebook
+https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
+
+### Como coletar Dados Públicos do Twitter
+https://www.youtube.com/watch?v=RssGfmtyn4A&t=354s
+https://www.youtube.com/watch?v=ewhIEJjl2xY
