@@ -11,3 +11,6 @@ afim de analisar os sentimentos dos eleitores sobre a situação política do pa
 acesso da categoria Essential da plataforma.
 
 **Ferramentas:** Bibliotecas Python - Pandas, MatplotLib, Wordcloud, NLTK e Tweepy.
+
+**Comandos:**
+start - jupyter-notebook
