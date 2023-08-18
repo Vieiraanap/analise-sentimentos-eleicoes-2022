@@ -12,7 +12,7 @@ acesso da categoria Essential da plataforma.
 
 **Ferramentas:** 
 Bibliotecas Python - Pandas, MatplotLib, Wordcloud, NLTK e Tweepy.
-Editor de Código: upyter Notebook.
+Editor de Código: Jupyter Notebook.
 
 **Comandos:**
 start - jupyter-notebook
