@@ -27,3 +27,6 @@ https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%2
 ### Como coletar Dados Públicos do Twitter
 https://www.youtube.com/watch?v=RssGfmtyn4A&t=354s
 https://www.youtube.com/watch?v=ewhIEJjl2xY
+
+### Artigo escrito
+https://docs.google.com/document/d/1I5osV0lGKj-CiT_EmLium0OSX_gHWc2pQ4fVUtKuk48/edit?usp=sharing
